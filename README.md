@@ -5,6 +5,25 @@ A mini AI learning dashboard mimicking a comprehensive online education platform
 
 ---
 
+## Live Demo & Screenshots
+**🚀 Vercel Deployment Link:** [https://margam-assessment.vercel.app/dashboard](https://margam-assessment.vercel.app/dashboard)
+**💻 Public GitHub Repo:** [https://github.com/satyam0236/Margam_Assessment-](https://github.com/satyam0236/Margam_Assessment-)
+
+### Web Application Views
+<p align="center">
+  <img src="screenshots/Web Login.png" width="48%" />
+  <img src="screenshots/Web Dashboard.png" width="48%" />
+  <img src="screenshots/Web Dashboard Light mood.png" width="48%" />
+  <img src="screenshots/Web Course1.png" width="48%" />
+</p>
+
+### React Native Mobile Mockup
+<p align="center">
+  <img src="screenshots/Mobile Dashboard.jpg" width="40%" />
+</p>
+
+---
+
 ## What's Included?
 
 The repository is divided into two distinct applications inside the root folder:
